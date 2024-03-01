@@ -1,0 +1,1 @@
+C:/broker/kafka/bin/windows/kafka-server-start.bat C:/broker/kafka/config/server.properties
